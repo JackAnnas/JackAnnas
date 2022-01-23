@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi i have been programming for 8 years im currently 18, ive always had a interest in programming and started with batch and then switched to front end once i learned the basics 
-my main languages are c#, php i have plans to learn more i currently own a software authentication, if you want to colab u can email me on jackannas493@gmail.com or contact me on +61 410 323 113
+my main languages are c#, php i have plans to learn more i currently own a software authentication, if you want to colab u can email me on jackannas493@gmail.com or contact me on +61 410 323 113.
 
 
 - 🔭 I’m currently working on a discord bot with dsharp
