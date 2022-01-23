@@ -9,4 +9,6 @@
 - 💬 Ask me about c# 
 - 📫 How to reach me: +61 410 323 113
 - ⚡ Fun fact: ive been programming since i was 10
--->
+
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
