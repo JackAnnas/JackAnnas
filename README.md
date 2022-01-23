@@ -31,4 +31,4 @@ my main languages are c#, php i have plans to learn more i currently own a softw
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAnnas&theme=dracula)](https://github.com/JackAnnas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAnnas&theme=vue-dark)](https://github.com/JackAnnas)
