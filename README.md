@@ -3,7 +3,7 @@
 add banner (use your links) :
 [![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
 
-Add profile views( edit your username):
+Add profile views(JackAnnas):
 **Angled brackets are not allowed in description so I have changed them to round brackets, for clear view check out my profile itself**
 
 (p align="left")(img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /)(/p)
