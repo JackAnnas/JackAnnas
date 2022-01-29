@@ -18,7 +18,7 @@
 <br/>
 
 ### 📖 About me :
-- Currently studying a bachelors degree of computer science
+
 - I love backend development
 - Experience with php, node.js, c#
 
