@@ -9,6 +9,7 @@ Hi i have been programming for 8 years im currently 18, ive always had a interes
 📫 How to reach me: +61 410 323 113
 
 ⚡ Fun fact: ive been programming since i was 10
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=radical)
