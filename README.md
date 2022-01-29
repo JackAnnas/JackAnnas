@@ -11,7 +11,7 @@
 <div>
 	&nbsp &nbsp &nbsp
 	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Interested+to+learn+about+new+things;Hung+for+knowledge+and+experience;" alt="Typing SVG"/>
+		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Interested+to+learn+about+new+things;Hungry+for+knowledge+and+experience;" alt="Typing SVG"/>
 	</a>
 </div>
 
