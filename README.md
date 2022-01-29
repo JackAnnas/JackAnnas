@@ -11,3 +11,4 @@ Hi i have been programming for 8 years im currently 18, ive always had a interes
 ⚡ Fun fact: ive been programming since i was 10
 
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=radical)
