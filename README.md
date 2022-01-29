@@ -12,7 +12,4 @@ Hi i have been programming for 8 years im currently 18, ive always had a interes
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&count_private=true)
-
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=cobalt)
