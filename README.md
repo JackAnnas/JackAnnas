@@ -18,9 +18,9 @@
 <br/>
 
 ### 📖 About me :
-- Currently Ongoing as an Undergraduate Informatics Engineering Student.
-- Graduated Computer and Network Engineering study at Vocational High School.
-- Experienced as an intern Computer Technician at <a href="https://www.sentracomputer.com" target="_blank">Sentra Computer</a>.
+- Currently studying a bachelors degree of computer science
+- I love backend development
+- Experience with php, node.js, c#
 
 <br/>
 
@@ -31,7 +31,7 @@
 	</a>
 	&nbsp
 	<a href="https://github.com/Chilled-Bot/chilled-bot.github.io" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JackAnnas&repo=chilled-bot.github.io&border_radius=10" alt="Latest Contribution" width="50%"/>
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JackAnnas&repo=autobot&border_radius=10" alt="Latest Contribution" width="50%"/>
 	</a>
 </div>
 
