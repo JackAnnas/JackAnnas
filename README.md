@@ -61,7 +61,7 @@
 <br/>
 
 <div align="center">
-  <i>"Liitle things can make a big impact"</i>
+  <i>"Little things can make a big impact"</i>
 </div>
 
 
