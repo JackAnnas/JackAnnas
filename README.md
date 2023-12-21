@@ -1,36 +1,21 @@
-<!--- Add an introduction about yourself -->
-# Hi there! 👋
+<h1 align="center">Hi 👋, I'm Jack Annas</h1>
+<h3 align="center">A Computer Science Student Majoring in cyber security</h3>
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackannas&label=Profile%20views&color=0e75b6&style=flat" alt="jackannas" /> </p>
 
-🌱 I'm currently learning [Current Learning Focus].
+- 🌱 I’m currently learning **Python**
 
-👯 I'm looking to collaborate on [Projects or Interests].
+- VelvetAuth: [https://velvetauth.xyz](https://velvetauth.xyz)
 
-🤔 I'm open to discussions about [Topics or Technologies].
+- 📫 How to reach me: **if you want to contact me about a project I created, please go through the right channels.**
 
-💬 Ask me about [Your Expertise or Interests].
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-📫 How to reach me: currently im not taking any inqueries if you want to contact me about projects i own and developed please go down the proper channels
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--- Add your GitHub stats and top languages -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAnnas&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackannas&show_icons=true&locale=en&layout=compact" alt="jackannas" /></p>
 
-<!--- Add a cool GitHub activity graph -->
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JackAnnas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
-
-
-
-### Recent GitHub Activity
-
-1. 🎉 Merged PR #1 in [Repository](https://github.com/JackAnnas/repo)
-2. 📦 Released [Version X.X.X](https://github.com/JackAnnas/repo/releases/tag/vX.X.X)
-3. 💡 Opened issue #2 in [Repository](https://github.com/JackAnnas/repo)
-
-
-
-<!--- Add a footer with social media and other relevant links -->
-### Technologies Ive created
-[![Website](Velvetauth)](https://velvetauth/) A software Access Control Authentication
-AccountsPlus (still in development)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackannas&show_icons=true&locale=en" alt="jackannas" /></p>
