@@ -1,68 +1,36 @@
-<!-- Afrizal Yogi - README Profiles -->
+<!--- Add an introduction about yourself -->
+# Hi there! 👋
+
+I'm [Your Name], a passionate [Your Profession] from [Your Location].
+
+🌱 I'm currently learning [Current Learning Focus].
+
+👯 I'm looking to collaborate on [Projects or Interests].
+
+🤔 I'm open to discussions about [Topics or Technologies].
+
+💬 Ask me about [Your Expertise or Interests].
+
+📫 How to reach me: currently im not taking any inqueries if you want to contact me about projects i own and developed please go down the proper channels
+
+<!--- Add your GitHub stats and top languages -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackAnnas&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackAnnas&layout=compact&theme=radical)
+
+<!--- Add a cool GitHub activity graph -->
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JackAnnas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 
 
-<div>
-	<h2>&nbsp &nbsp &nbspHi, I am Jack Annas
-	&nbsp 
-	<img src="https://github.com/afrizalyogi/cdn/blob/main/Assets/GIF/wavehand.gif" width="40px"/></h2>
-</div>
+### Recent GitHub Activity
 
-<div>
-	&nbsp &nbsp &nbsp
-	<a href="https://git.io/typing-svg" target="_blank">
-		<img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&color=58A6FF&vCenter=true&lines=Interested+to+learn+about+new+things;Hungry+for+knowledge+and+experience;" alt="Typing SVG"/>
-	</a>
-</div>
-
-<br/>
-
-### 📖 About me :
-
-- I love backend development
-- Experience with php, node.js, c#
-
-<br/>
-
-### 📋 Latest Contribution :
-<div align="center">
-	<a href="https://github.com/shravan20/github-readme-quotes" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JackAnnas&repo=SonaAuth-Bot&border_radius=10" alt="Latest Contribution" width="42.5%"/>
-	</a>
-	&nbsp
-	<a href="https://github.com/Chilled-Bot/chilled-bot.github.io" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JackAnnas&repo=autobot&border_radius=10" alt="Latest Contribution" width="50%"/>
-	</a>
-</div>
-
-<br/>
-
-### 📊 Stats :
-<div align="center">
-	<a href="https://git.io/streak-stats" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com?user=JackAnnas&ring=007AFF&currStreakNum=007AFF&currStreakLabel=007AFF&fire=007AFF" alt="Github Streak" width="42.5%"/>
-	</a>
-	&nbsp
-	<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=JackAnnas&hide_title=true&include_all_commits=true&count_private=true&border_radius=3" alt="Activity Graph"width="50%"/>
-	</a>
-</div>
-
-<br/>
-
-<div align="center">
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank">
-		<img src="https://activity-graph.herokuapp.com/graph?username=JackAnnas&bg_color=fffefe&color=161616&line=007aff&hide_title=true" alt="Activity Graph" width="94%"/>
-	</a>
-</div>
-
----
-
-<br/>
-
-<div align="center">
-  <i>"Little things can make a big impact"</i>
-</div>
+1. 🎉 Merged PR #1 in [Repository](https://github.com/JackAnnas/repo)
+2. 📦 Released [Version X.X.X](https://github.com/JackAnnas/repo/releases/tag/vX.X.X)
+3. 💡 Opened issue #2 in [Repository](https://github.com/JackAnnas/repo)
 
 
 
+<!--- Add a footer with social media and other relevant links -->
+### Technologies Ive created
+[![Website](Velvetauth)](https://velvetauth/) A software Access Control Authentication
+AccountsPlus (still in development)
