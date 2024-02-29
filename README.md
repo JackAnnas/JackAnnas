@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Annas</h1>
+Currently On my second year at uni majoring in cyber security :)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackannas&label=Profile%20views&color=0e75b6&style=flat" alt="jackannas" /> </p>
 
